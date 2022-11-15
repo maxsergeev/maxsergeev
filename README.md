@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Max 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JS/React+Developer+from+Russia+🇷🇺" alt="Typing SVG" /></h3>
 
 <div align="center">
